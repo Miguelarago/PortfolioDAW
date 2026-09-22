@@ -2,7 +2,7 @@
 ## Diario 1
 [Diario 1](https://github.com/Miguelarago/PortfolioDAW/blob/main/diario_ut1.md)
 ## Ejercicio 1
-[Ejercicio 1] (./ej_ut1-md)
+[Ejercicio 1](./ej_ut1.md)
 
 # Unidad 2
 ## Diario 2
