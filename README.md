@@ -1,6 +1,6 @@
 # Unidad 1
 ## Diario 1
-[Diario 1] (./diario_ut1.md)
+[Diario 1] (https://github.com/Miguelarago/PortfolioDAW/blob/main/diario_ut1.md)
 ## Ejercicio 1
 [Ejercicio 1] (./ej_ut1-md)
 
